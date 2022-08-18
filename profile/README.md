@@ -1,3 +1,41 @@
 # Raston Lab
 
-This will appear on the main organization page!
+- [Dr. Paul Raston's Personal Website](https://rastonlab.github.io/RastonLab-Website/)
+
+## Project Links
+
+- [Slack](https://virtualspectrometers.slack.com/)
+- [Open Science Framework (file storage)](https://osf.io/4agxn/)
+- [GitHub Project Task Board](https://github.com/orgs/RastonLab/projects/1/views/2)
+
+## SCRUM Meeting Schedule (Summer 2022)
+
+### [Zoom Link](https://jmu-edu.zoom.us/j/89032973161)
+
+- Daily SCRUM (standup)
+  - Monday - Friday at 9:00am ET
+- Weekly Sprint Planning
+  - Monday at 9:30am ET
+- Weekly Sprint Review
+  - Friday at 9:30am ET
+
+## Virtual Spectrometers
+
+- Isaac Miller's HeNDI Spectrometer
+  - [GitHub Repository](https://github.com/isaac-j-miller/virtual-hendi)
+  - [Working Product](https://virtual-hendi.isaac-j-miller.com/)
+- Raston Lab's HeNDI Spectrometer
+  - [GitHub Repository](https://github.com/RastonLab/Virtual-HeNDI-Spectrometer)
+  - [Working Product](https://rastonlab.github.io/Virtual-HeNDI-Spectrometer/)
+- Raston Lab's FTIR Spectrometer
+  - [GitHub Repository](https://github.com/RastonLab/Virtual-FTIR-Spectrometer)
+  - [Working Product](https://rastonlab.github.io/Virtual-FTIR-Spectrometer/)
+- Raston Lab's FTMW Spectrometer
+  - [GitHub Repository](https://github.com/RastonLab/Virtual-FTMW-Spectrometer)
+- Raston Lab's PA Spectrometer
+  - [GitHub Repository](https://github.com/RastonLab/Virtual-PA-Spectrometer)
+
+## Other Important Repositories
+
+- [FTIR Spectrometer Functions](https://github.com/RastonLab/Virtual-FTIR-Functions)
+- [Spectrometer Visual Components and Diagrams](https://github.com/RastonLab/Virtual-Instrument-Diagrams)
