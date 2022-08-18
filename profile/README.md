@@ -1,6 +1,7 @@
 # Raston Lab
 
 - [Dr. Paul Raston's Personal Website](https://rastonlab.github.io/RastonLab-Website/)
+- [Raston Lab Wiki](https://github.com/RastonLab/.github/wiki)
 
 ## Project Links
 
