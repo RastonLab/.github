@@ -9,16 +9,9 @@
 - [Open Science Framework (file storage)](https://osf.io/4agxn/)
 - [GitHub Project Task Board](https://github.com/orgs/RastonLab/projects/1/views/2)
 
-## SCRUM Meeting Schedule (Summer 2022)
+## SCRUM Meeting Schedule
 
-### [Zoom Link](https://jmu-edu.zoom.us/j/89032973161)
-
-- Daily SCRUM (standup)
-  - Monday - Friday at 9:00am ET
-- Weekly Sprint Planning
-  - Monday at 9:30am ET
-- Weekly Sprint Review
-  - Friday at 9:30am ET
+No regular meetings currently.
 
 ## Virtual Spectrometers
 
