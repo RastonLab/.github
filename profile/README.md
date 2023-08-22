@@ -1,12 +1,10 @@
 # Raston Lab
 
 - [Dr. Paul Raston's Personal Website](https://rastonlab.github.io/RastonLab-Website/)
-- [Raston Lab Wiki](https://github.com/RastonLab/.github/wiki)
 
 ## Project Links
 
-- [Open Science Framework (file storage)](https://osf.io/4agxn/)
-- [GitHub Project Task Board](https://github.com/orgs/RastonLab/projects/1/views/2)
+- [Open Science Framework (file storage and Wiki)](https://osf.io/4agxn/)
 
 ## Virtual Spectrometers
 
