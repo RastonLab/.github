@@ -1,7 +1,5 @@
 # Raston Lab
 
-- [Dr. Paul Raston's Personal Website](https://rastonlab.github.io/RastonLab-Website/)
-
 ## Project Links
 
 - [Open Science Framework (file storage and Wiki)](https://osf.io/4agxn/)
